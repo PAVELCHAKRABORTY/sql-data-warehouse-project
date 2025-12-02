@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-Project Overview
+## Project Overview
 
 This project involves:
 
@@ -20,7 +20,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 
 ---
 
-Project Requirements:
+## Project Requirements:
 
 Building the Data Warehouse (Data Engineering)
 
@@ -29,7 +29,7 @@ Objective:
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 
-Specifications: 
+## Specifications: 
 
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 
@@ -43,9 +43,9 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 ---
 
-BI: Analytics & Reporting (Data Analysis)
+## BI: Analytics & Reporting (Data Analysis)
 
-Objective: 
+# Objective: 
 
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -59,11 +59,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ---
 
-About Me:
+## About Me:
 
 I’m a postgraduate economics student with hands-on skills in SQL, Excel, and Power BI. I build data analytics and data warehousing projects to strengthen my industry readiness.
